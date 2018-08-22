@@ -1,6 +1,6 @@
 # Ajcek_manufakturalibraries
 
-the Work of @Ajcek1984
+the Work of https://github.com/Ajcek1984
 
 see the original at https://bitbucket.org/Ajcek/manufakturalibraries
 
